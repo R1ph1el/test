@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aula de Reforço</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="entrar">Entrar</string>
+    <string name="text_cadastro">Criar acesso</string>
+    <string name="title_cadastro">Cadastre-se</string>
+</resources>
